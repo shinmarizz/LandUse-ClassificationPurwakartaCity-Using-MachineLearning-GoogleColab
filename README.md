@@ -1,1 +1,1 @@
-# LandUse-Classification-Pekalongan-City-Using-MachineLearning-GoogleColab
+# LandUse-Classification-Purwakarta-City-Using-MachineLearning-PythonBased
