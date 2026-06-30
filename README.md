@@ -54,8 +54,11 @@ Alur kerja proyek ini terdiri dari lima tahapan utama:
 │   ├── Purwakarta_SR_B2.tif
 │   ├── ...
 │   └── Purwakarta_SR_B7.tif
-├── sample_extract.csv          # titik sampel beserta label kelas
+├── sample.geojson
+├── label.json         # titik sampel beserta label kelas
 ├── klasifikasi_purwakarta.ipynb
+├── output/
+│  ├── klasifikasi.png
 └── README.md
 ```
 
