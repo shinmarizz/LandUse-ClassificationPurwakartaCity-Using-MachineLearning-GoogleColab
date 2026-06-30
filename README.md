@@ -157,7 +157,9 @@ Model menghasilkan peta klasifikasi tutupan lahan untuk Kabupaten Purwakarta den
 - 🟪 **Industry** — kawasan industri
 - 🟦 **Water bodies** — badan air (sungai, waduk)
 
-Evaluasi akurasi dilaporkan dalam bentuk confusion matrix dan classification report (precision, recall, f1-score) untuk masing-masing kelas pada data uji.
+<img width="527" height="436" alt="image" src="https://github.com/user-attachments/assets/dd879c30-0148-4434-9d36-540ad4c913fc" />
+
+
 
 ## Referensi
 
