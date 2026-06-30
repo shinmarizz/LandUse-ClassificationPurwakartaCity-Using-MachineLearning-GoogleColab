@@ -170,6 +170,7 @@ Model menghasilkan peta klasifikasi tutupan lahan untuk Kabupaten Purwakarta den
 - Google Earth Engine Data Catalog, *USGS Landsat 8 Level 2, Collection 2, Tier 1*.
 - Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5-32.
 - Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825-2830.
+- Cardille, J. A., Crowley, M. A., Saah, D., & Clinton, N. E. (Eds.). (2024). Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications. Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-26588-4
 - Dokumentasi Kode dari GitHub Ramadhan (ramiqcom) *Land Cover Classification with Python* GitHub Profile : https://github.com/ramiqcom
 
 ---
