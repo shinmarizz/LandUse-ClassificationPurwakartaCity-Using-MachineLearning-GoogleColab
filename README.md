@@ -165,7 +165,8 @@ Evaluasi akurasi dilaporkan dalam bentuk confusion matrix dan classification rep
 - Google Earth Engine Data Catalog, *USGS Landsat 8 Level 2, Collection 2, Tier 1*.
 - Breiman, L. (2001). Random Forests. *Machine Learning*, 45(1), 5-32.
 - Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, 12, 2825-2830.
+- Dokumentasi Kode dari GitHub Ramadhan (ramiqcom) *Land Cover Classification with Python* GitHub Profile : https://github.com/ramiqcom
 
 ---
 
-**Penyusun:** Mahasiswa Teknik Geodesi, Universitas Diponegoro
+**Adnan Yusuf Hartawan** Mahasiswa Teknik Geodesi, Universitas Diponegoro
